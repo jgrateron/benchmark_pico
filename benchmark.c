@@ -5,7 +5,7 @@
 #include <inttypes.h>
 #include "pico/stdlib.h"
 
-#define BENCHMARK_MULTIPLIER 1000
+#define BENCHMARK_MULTIPLIER 10
 
 // M1 - Fixed-point maths test.
 //
